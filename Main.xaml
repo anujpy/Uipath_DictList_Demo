@@ -100,6 +100,7 @@
           <InArgument x:TypeArguments="x:String">Washington</InArgument>
           <InArgument x:TypeArguments="x:String">California</InArgument>
           <InArgument x:TypeArguments="x:String">Newyork</InArgument>
+          <InArgument x:TypeArguments="x:String">LA</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
